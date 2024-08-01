@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1390020_it_asset.admin" name="x_1390020_it_asset.admin">a3767ea447770210227164f2e16d4379</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 16:57:25</sys_created_on>
+        <sys_id>e7767ea447770210227164f2e16d437b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a3767ea447770210227164f2e16d4379</sys_name>
+        <sys_package display_value="IT Asset" source="x_1390020_it_asset">ef767ea447770210227164f2e16d4300</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset">ef767ea447770210227164f2e16d4300</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e7767ea447770210227164f2e16d437b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 16:57:25</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

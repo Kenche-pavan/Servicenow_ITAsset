@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-01 05:18:26</sys_created_on>
+        <sys_id>2a1025b447b34210227164f2e16d4358</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1390020_it_asset_itasset.x_1390020_it_asset.user</sys_name>
+        <sys_package display_value="IT Asset" source="x_1390020_it_asset">ef767ea447770210227164f2e16d4300</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Asset">ef767ea447770210227164f2e16d4300</sys_scope>
+        <sys_security_acl display_value="x_1390020_it_asset_itasset">161025b447b34210227164f2e16d4354</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2a1025b447b34210227164f2e16d4358</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-01 05:18:26</sys_updated_on>
+        <sys_user_role display_value="x_1390020_it_asset.user" name="x_1390020_it_asset.user">e3767ea447770210227164f2e16d437e</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
