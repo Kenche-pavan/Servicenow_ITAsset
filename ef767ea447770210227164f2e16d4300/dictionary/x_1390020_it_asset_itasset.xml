@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="9c10a1b447b34210227164f2e16d431d" label="ITasset" max_length="40" name="x_1390020_it_asset_itasset" type="collection">
         <element label="AssetName" max_length="40" name="assetname" type="string"/>
+        <element label="Validity" max_length="40" name="validity" type="due_date"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Assignedto" max_length="32" name="assignedto" reference="sys_user" type="reference"/>
         <element label="Model" max_length="40" name="model" type="string"/>
